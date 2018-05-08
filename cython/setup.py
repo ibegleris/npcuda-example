@@ -1,4 +1,4 @@
-from future.utils import iteritems
+#from future.utils import iteritems
 import  os
 from os.path import join as pjoin
 from setuptools import setup
